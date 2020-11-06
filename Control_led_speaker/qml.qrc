@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>view/Button_led_speaker.qml</file>
+        <file>view/Button_led_speakerForm.ui.qml</file>
+    </qresource>
+</RCC>
